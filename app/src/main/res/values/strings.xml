@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">vetrf2</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameDataBase">Имя базы ХС</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="create">Создать</string>
+    <string name="Back">Назад</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Доступ к камере необходим для чтения кода</string>
+    <string name="no_camera_permission">Приложение не может быть использовано, так как нет разрешения камеры</string>
+    <string name="low_storage_error">Детектор штрихкодов не может быть загружен из-за нехватки памяти</string>
+    <string name="title_activity_main">Образец</string>
+    <string name="barcode_header">Нажмите &quot;Чтение кода&quot; </string>
+    <string name="read_barcode">Чтение кода</string>
+    <string name="auto_focus">Авто фокус</string>
+    <string name="use_flash">Вспышка</string>
+    <string name="barcode_success">Чтение кода успешное</string>
+    <string name="barcode_failure">Код не получен</string>
+    <string name="barcode_error">"Ошибка чтения кода: %1$s"</string>
+    <string name="add_base">Добавить базу</string>
+    <string name="cancel">Отмена</string>
+    <string name="TabPosition">tab_position</string>
+</resources>

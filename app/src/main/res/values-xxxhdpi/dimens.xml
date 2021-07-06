@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--4X-->
+    <dimen name="text_size_small">80px</dimen>
+    <dimen name="text_size_normal">96px</dimen>
+    <dimen name="text_size_big">128px</dimen>
+    <dimen name="text_size_verybig">160px</dimen>
+
+    <dimen name="layout_height_rect_hint">24dp</dimen>
+    <dimen name="stroke_width">2dp</dimen>
+    <dimen name="width_button_three_point">50dp</dimen>
+</resources>
